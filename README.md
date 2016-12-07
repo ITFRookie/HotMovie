@@ -1,0 +1,2 @@
+# HotMovie
+* 請替換AndroidMainFest.xml文件中的Application節點係的meta-data數據項YOUR_API_KEY為自己申請的Api_key.
